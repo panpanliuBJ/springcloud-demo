@@ -10,7 +10,7 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/panpanliuBJ/springcloud-demo/
+          uri: https://github.com/panpanliuBJ/springcloud-demo
           searchPaths: project-config
   application:
     name: config-server
